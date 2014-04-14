@@ -1,4 +1,4 @@
-name: tutorialsamples
+name: hello_dart
 description: A sample application
 environment:
   sdk: any
